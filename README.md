@@ -1,2 +1,4 @@
 # personal-meachine-learning
-personal meachine learning data
+
+在自己学习和阅读各类文章的过程中，进行简单的汇总整理，方便自己后续的回顾。
+注：笔记中涉及的引用论文和博客，均汇总于同一个区域且大部分在笔记中有说明。
